@@ -8,13 +8,6 @@
 // Author1: (name1,email1,netID1,lecture number1)
 // Author2: (name2,email2,netID2,lecture number2)
 //
-// ---------------- OTHER ASSISTANCE CREDITS 
-// Persons: Identify persons by name, relationship to you, and email. 
-// Describe in detail the the ideas and help they provided. 
-// 
-// Online sources: avoid web searches to solve your problems, but if you do 
-// search, be sure to include Web URLs and description of 
-// of any information you find. 
 ////////////////////////////////////////////////////////////////////////////
 
 /**
